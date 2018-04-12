@@ -1,6 +1,6 @@
 package shaz.mvpsimplesample.login;
 
-import shaz.mvpsimplesample.mvp.BaseView;
+import shaz.mvpsimplesample.base.BaseView;
 
 /**
  * Created by ${Shahbaz} on 08-02-2018

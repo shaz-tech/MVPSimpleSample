@@ -1,6 +1,6 @@
 package shaz.mvpsimplesample.register;
 
-import shaz.mvpsimplesample.mvp.BasePresenter;
+import shaz.mvpsimplesample.base.BasePresenter;
 
 /**
  * Created by ${Shahbaz} on 08-02-2018

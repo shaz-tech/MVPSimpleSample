@@ -1,4 +1,4 @@
-package shaz.mvpsimplesample.mvp;
+package shaz.mvpsimplesample.base;
 
 /**
  * Created by ${Shahbaz} on 08-02-2018
